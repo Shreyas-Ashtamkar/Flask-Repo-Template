@@ -28,10 +28,10 @@ Flask-Repo-Template/
 │       ├── __init__.py
 │       ├── frontend.py
 │       └── backend.py
-└── run_app.py
+├── run_app.py
 ├── prepare_app.sh
 ├── prepare_app.bat
 ├── requirements.txt
 ├── README.md
-├── LICENSE
+└── LICENSE
 ```
